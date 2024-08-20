@@ -2,17 +2,17 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1721524691,
-        "narHash": "sha256-aE4vMfHfpX6KP9VWqVdXtoDUlvFR34wEIjqsqnKrVdY=",
-        "owner": "nixos",
+        "lastModified": 1723923541,
+        "narHash": "sha256-b6gFHRLP1a3vFhJYVq2jDqnM0PPIGYKl1ecdRIDqLfs=",
+        "owner": "NickCao",
         "repo": "nixpkgs",
-        "rev": "c9ed026def59fe978203a2b28eccdbaa7e5fadc9",
+        "rev": "fd5f2f5eb22c7d04cf88838ea232d0a7d6791e36",
         "type": "github"
       },
       "original": {
-        "owner": "nixos",
+        "owner": "NickCao",
+        "ref": "telegram-desktop",
         "repo": "nixpkgs",
-        "rev": "c9ed026def59fe978203a2b28eccdbaa7e5fadc9",
         "type": "github"
       }
     },
